@@ -1,5 +1,5 @@
 # Проект A/B–тестирование + SQL
-> Стек - pandas, plotly, requests, scipy, seaborn, pandahouse
+> Стек - pandas, plotly, requests, scipy, seaborn, pandahouse, A/B тестирование
 
 #### Описание 
 Это пример тестового задания. Тестовое включало три задания:
